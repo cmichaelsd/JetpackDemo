@@ -1,0 +1,2 @@
+# Android Jetpack Demo
+> The project demonstrates how one-way and two-way data binding work with a view model. The view model will also save state and re-initialize state when the application is killed.
